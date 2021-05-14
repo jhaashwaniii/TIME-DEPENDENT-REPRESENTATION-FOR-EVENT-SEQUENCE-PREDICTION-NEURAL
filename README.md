@@ -1,4 +1,4 @@
-# TIME-DEPENDENT-REPRESENTATION-FOR-EVENT-SEQUENCE-PREDICTION-NEURAL
+# TIME-DEPENDENT-REPRESENTATION-FOR-NEURAL-EVENT-SEQUENCE-PREDICTION
 
 Our task is to predict next asynchronous event and time by
 modeling time information in the event. For example next disease
